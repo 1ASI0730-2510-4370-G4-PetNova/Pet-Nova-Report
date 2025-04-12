@@ -31,20 +31,20 @@
             <td>U20221A301</td>
         </tr>
         <tr>
-            <td>Nombre 1</td>
-            <td>Codigo</td>
+            <td>Belahonia Miranda, fabrisio  </td>
+            <td>U202220219</td>
         </tr>
         <tr>
-            <td>Nombre 2</td>
-            <td>Codigo</td>
+            <td>Choquehuanca Núñez, Luciana Carolina</td>
+            <td>U202319431</td>
         </tr>
         <tr>
-            <td>Nombre 2</td>
-            <td>Codigo</td>
+            <td>Escobar Palomino, Sebastian Matias</td>
+            <td>U202220219</td>
         </tr>
         <tr>
-            <td>Nombre 2</td>
-            <td>Codigo</td>
+            <td>Prado Vargas, Mario Benjamín</td>
+            <td>U202115357</td>
         </tr>
     </table>
     </div>
